@@ -15,4 +15,6 @@ Done by:
 ![](https://github.com/Surayyi/Regression-Medical-Insurance-Cost/blob/main/Heat%20Map.png)
 
 Smoking has the highest impact on medical costs, even though the costs are growing with age, bmi and children.
-Also people who have children generally smoke less, which the following violinplots shows too
+Also people who have children generally smoke less.
+
+We ues some models to fined the best R2 and the Polynomial Regression turned out to be the best model.
